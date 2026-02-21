@@ -116,18 +116,17 @@ class CartPoleFixedPointWrapper(gym.Wrapper):
 
         continuous_reward = upright_reward - spin_penalty - center_penalty
 
-        # Override termination for infinite continuous learning
-        return ALU_Q16.to_q(padded_obs), continuous_reward, False, False, info
+        # Pass through actual physical termination flags to brutally grade the AI
+        return ALU_Q16.to_q(padded_obs), continuous_reward, terminated, truncated, info
 
 
 def run_cartpole_boreal():
     print("🚀 Initializing BOREAL Engine for CartPole-v1...")
 
     raw_env = gym.make("CartPole-v1")
-    # Disable Gymnasium internal termination bounds for infinite physics
-
-    raw_env.unwrapped.theta_threshold_radians = 100 * math.pi
-    raw_env.unwrapped.x_threshold = 10000.0
+    # Restore Gymnasium internal termination bounds for strict Upright Physics checks
+    raw_env.unwrapped.theta_threshold_radians = 12 * 2 * math.pi / 360  # 12 Degrees
+    raw_env.unwrapped.x_threshold = 2.4
 
     env = CartPoleFixedPointWrapper(raw_env)
 
@@ -150,7 +149,7 @@ def run_cartpole_boreal():
     logger.log["ep_lens"] = []
 
     global_t = 0
-    max_episodes = 5
+    max_episodes = 50
 
     for ep in range(max_episodes):
         o_q, _ = env.reset()

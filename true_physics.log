@@ -1,0 +1,553 @@
+🚀 Initializing BOREAL Engine for CartPole-v1...
+
+--- Starting Episode 1/50 ---
+[FORAGING  ] EP:1 T:000 | Angle:  0.03 rad | Surp: 0.077 | Regime: [0xINIT]
+[FORAGING  ] EP:1 T:005 | Angle: -0.10 rad | Surp: 0.231 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 8 (Global Tick 9)
+
+--- Starting Episode 2/50 ---
+[FORAGING  ] EP:2 T:000 | Angle:  0.03 rad | Surp: 0.076 | Regime: [0xINIT]
+[FORAGING  ] EP:2 T:005 | Angle: -0.11 rad | Surp: 0.188 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 7 (Global Tick 17)
+
+--- Starting Episode 3/50 ---
+[FORAGING  ] EP:3 T:000 | Angle: -0.00 rad | Surp: 0.000 | Regime: [0xINIT]
+[FORAGING  ] EP:3 T:005 | Angle:  0.00 rad | Surp: 0.000 | Regime: [0xINIT]
+[FORAGING  ] EP:3 T:010 | Angle:  0.01 rad | Surp: 0.006 | Regime: [0xINIT]
+[TARGETING ] EP:3 T:015 | Angle:  0.01 rad | Surp: 0.011 | Regime: [0xINIT]
+[TARGETING ] EP:3 T:020 | Angle:  0.02 rad | Surp: 0.019 | Regime: [0xINIT]
+[TARGETING ] EP:3 T:025 | Angle:  0.03 rad | Surp: 0.030 | Regime: [0xINIT]
+[TARGETING ] EP:3 T:030 | Angle:  0.05 rad | Surp: 0.044 | Regime: [0xINIT]
+[TARGETING ] EP:3 T:035 | Angle:  0.07 rad | Surp: 0.066 | Regime: [0xINIT]
+[TARGETING ] EP:3 T:040 | Angle:  0.10 rad | Surp: 0.097 | Regime: [0xINIT]
+[TARGETING ] EP:3 T:045 | Angle:  0.14 rad | Surp: 0.142 | Regime: [0xINIT]
+[TARGETING ] EP:3 T:050 | Angle:  0.21 rad | Surp: 0.206 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 51 (Global Tick 69)
+
+--- Starting Episode 4/50 ---
+[TARGETING ] EP:4 T:000 | Angle:  0.02 rad | Surp: 0.024 | Regime: [0xINIT]
+[TARGETING ] EP:4 T:005 | Angle:  0.03 rad | Surp: 0.027 | Regime: [0xINIT]
+[TARGETING ] EP:4 T:010 | Angle:  0.04 rad | Surp: 0.036 | Regime: [0xINIT]
+[TARGETING ] EP:4 T:015 | Angle:  0.05 rad | Surp: 0.051 | Regime: [0xINIT]
+[TARGETING ] EP:4 T:020 | Angle:  0.08 rad | Surp: 0.074 | Regime: [0xINIT]
+[TARGETING ] EP:4 T:025 | Angle:  0.11 rad | Surp: 0.109 | Regime: [0xINIT]
+[TARGETING ] EP:4 T:030 | Angle:  0.16 rad | Surp: 0.159 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 34 (Global Tick 104)
+
+--- Starting Episode 5/50 ---
+[TARGETING ] EP:5 T:000 | Angle:  0.04 rad | Surp: 0.041 | Regime: [0xINIT]
+[TARGETING ] EP:5 T:005 | Angle:  0.05 rad | Surp: 0.044 | Regime: [0xINIT]
+[TARGETING ] EP:5 T:010 | Angle:  0.06 rad | Surp: 0.057 | Regime: [0xINIT]
+[TARGETING ] EP:5 T:015 | Angle:  0.08 rad | Surp: 0.078 | Regime: [0xINIT]
+[TARGETING ] EP:5 T:020 | Angle:  0.11 rad | Surp: 0.111 | Regime: [0xINIT]
+[TARGETING ] EP:5 T:025 | Angle:  0.16 rad | Surp: 0.160 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 29 (Global Tick 134)
+
+--- Starting Episode 6/50 ---
+[TARGETING ] EP:6 T:000 | Angle:  0.04 rad | Surp: 0.038 | Regime: [0xINIT]
+[TARGETING ] EP:6 T:005 | Angle:  0.04 rad | Surp: 0.039 | Regime: [0xINIT]
+[TARGETING ] EP:6 T:010 | Angle:  0.05 rad | Surp: 0.047 | Regime: [0xINIT]
+[TARGETING ] EP:6 T:015 | Angle:  0.06 rad | Surp: 0.062 | Regime: [0xINIT]
+[TARGETING ] EP:6 T:020 | Angle:  0.09 rad | Surp: 0.086 | Regime: [0xINIT]
+[TARGETING ] EP:6 T:025 | Angle:  0.12 rad | Surp: 0.123 | Regime: [0xINIT]
+[TARGETING ] EP:6 T:030 | Angle:  0.18 rad | Surp: 0.178 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 33 (Global Tick 168)
+
+--- Starting Episode 7/50 ---
+[TARGETING ] EP:7 T:000 | Angle: -0.03 rad | Surp: 0.030 | Regime: [0xINIT]
+[TARGETING ] EP:7 T:005 | Angle: -0.03 rad | Surp: 0.033 | Regime: [0xINIT]
+[TARGETING ] EP:7 T:010 | Angle: -0.04 rad | Surp: 0.044 | Regime: [0xINIT]
+[TARGETING ] EP:7 T:015 | Angle: -0.06 rad | Surp: 0.061 | Regime: [0xINIT]
+[TARGETING ] EP:7 T:020 | Angle: -0.09 rad | Surp: 0.087 | Regime: [0xINIT]
+[TARGETING ] EP:7 T:025 | Angle: -0.13 rad | Surp: 0.126 | Regime: [0xINIT]
+[TARGETING ] EP:7 T:030 | Angle: -0.18 rad | Surp: 0.184 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 32 (Global Tick 201)
+
+--- Starting Episode 8/50 ---
+[TARGETING ] EP:8 T:000 | Angle: -0.04 rad | Surp: 0.043 | Regime: [0xINIT]
+[TARGETING ] EP:8 T:005 | Angle: -0.05 rad | Surp: 0.045 | Regime: [0xINIT]
+[TARGETING ] EP:8 T:010 | Angle: -0.06 rad | Surp: 0.055 | Regime: [0xINIT]
+[TARGETING ] EP:8 T:015 | Angle: -0.07 rad | Surp: 0.073 | Regime: [0xINIT]
+[TARGETING ] EP:8 T:020 | Angle: -0.10 rad | Surp: 0.102 | Regime: [0xINIT]
+[TARGETING ] EP:8 T:025 | Angle: -0.14 rad | Surp: 0.145 | Regime: [0xINIT]
+[TARGETING ] EP:8 T:030 | Angle: -0.21 rad | Surp: 0.208 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 31 (Global Tick 233)
+
+--- Starting Episode 9/50 ---
+[TARGETING ] EP:9 T:000 | Angle:  0.02 rad | Surp: 0.024 | Regime: [0xINIT]
+[TARGETING ] EP:9 T:005 | Angle:  0.03 rad | Surp: 0.026 | Regime: [0xINIT]
+[TARGETING ] EP:9 T:010 | Angle:  0.03 rad | Surp: 0.034 | Regime: [0xINIT]
+[TARGETING ] EP:9 T:015 | Angle:  0.05 rad | Surp: 0.048 | Regime: [0xINIT]
+[TARGETING ] EP:9 T:020 | Angle:  0.07 rad | Surp: 0.069 | Regime: [0xINIT]
+[TARGETING ] EP:9 T:025 | Angle:  0.10 rad | Surp: 0.101 | Regime: [0xINIT]
+[TARGETING ] EP:9 T:030 | Angle:  0.15 rad | Surp: 0.147 | Regime: [0xINIT]
+[TARGETING ] EP:9 T:035 | Angle:  0.21 rad | Surp: 0.214 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 35 (Global Tick 269)
+
+--- Starting Episode 10/50 ---
+[TARGETING ] EP:10 T:000 | Angle: -0.04 rad | Surp: 0.043 | Regime: [0xINIT]
+[TARGETING ] EP:10 T:005 | Angle: -0.05 rad | Surp: 0.051 | Regime: [0xINIT]
+[TARGETING ] EP:10 T:010 | Angle: -0.07 rad | Surp: 0.067 | Regime: [0xINIT]
+[TARGETING ] EP:10 T:015 | Angle: -0.09 rad | Surp: 0.094 | Regime: [0xINIT]
+[TARGETING ] EP:10 T:020 | Angle: -0.13 rad | Surp: 0.134 | Regime: [0xINIT]
+[TARGETING ] EP:10 T:025 | Angle: -0.19 rad | Surp: 0.195 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 26 (Global Tick 296)
+
+--- Starting Episode 11/50 ---
+[TARGETING ] EP:11 T:000 | Angle:  0.03 rad | Surp: 0.027 | Regime: [0xINIT]
+[TARGETING ] EP:11 T:005 | Angle:  0.03 rad | Surp: 0.025 | Regime: [0xINIT]
+[TARGETING ] EP:11 T:010 | Angle:  0.03 rad | Surp: 0.028 | Regime: [0xINIT]
+[TARGETING ] EP:11 T:015 | Angle:  0.03 rad | Surp: 0.034 | Regime: [0xINIT]
+[TARGETING ] EP:11 T:020 | Angle:  0.05 rad | Surp: 0.047 | Regime: [0xINIT]
+[TARGETING ] EP:11 T:025 | Angle:  0.07 rad | Surp: 0.066 | Regime: [0xINIT]
+[TARGETING ] EP:11 T:030 | Angle:  0.09 rad | Surp: 0.095 | Regime: [0xINIT]
+[TARGETING ] EP:11 T:035 | Angle:  0.14 rad | Surp: 0.139 | Regime: [0xINIT]
+[TARGETING ] EP:11 T:040 | Angle:  0.20 rad | Surp: 0.202 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 41 (Global Tick 338)
+
+--- Starting Episode 12/50 ---
+[TARGETING ] EP:12 T:000 | Angle:  0.03 rad | Surp: 0.031 | Regime: [0xINIT]
+[TARGETING ] EP:12 T:005 | Angle:  0.03 rad | Surp: 0.028 | Regime: [0xINIT]
+[TARGETING ] EP:12 T:010 | Angle:  0.03 rad | Surp: 0.029 | Regime: [0xINIT]
+[TARGETING ] EP:12 T:015 | Angle:  0.04 rad | Surp: 0.036 | Regime: [0xINIT]
+[TARGETING ] EP:12 T:020 | Angle:  0.05 rad | Surp: 0.048 | Regime: [0xINIT]
+[TARGETING ] EP:12 T:025 | Angle:  0.07 rad | Surp: 0.067 | Regime: [0xINIT]
+[TARGETING ] EP:12 T:030 | Angle:  0.09 rad | Surp: 0.095 | Regime: [0xINIT]
+[TARGETING ] EP:12 T:035 | Angle:  0.14 rad | Surp: 0.138 | Regime: [0xINIT]
+[TARGETING ] EP:12 T:040 | Angle:  0.20 rad | Surp: 0.200 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 41 (Global Tick 380)
+
+--- Starting Episode 13/50 ---
+[TARGETING ] EP:13 T:000 | Angle: -0.01 rad | Surp: 0.012 | Regime: [0xINIT]
+[TARGETING ] EP:13 T:005 | Angle: -0.01 rad | Surp: 0.014 | Regime: [0xINIT]
+[TARGETING ] EP:13 T:010 | Angle: -0.02 rad | Surp: 0.018 | Regime: [0xINIT]
+[TARGETING ] EP:13 T:015 | Angle: -0.03 rad | Surp: 0.025 | Regime: [0xINIT]
+[TARGETING ] EP:13 T:020 | Angle: -0.04 rad | Surp: 0.035 | Regime: [0xINIT]
+[TARGETING ] EP:13 T:025 | Angle: -0.05 rad | Surp: 0.051 | Regime: [0xINIT]
+[TARGETING ] EP:13 T:030 | Angle: -0.07 rad | Surp: 0.074 | Regime: [0xINIT]
+[TARGETING ] EP:13 T:035 | Angle: -0.11 rad | Surp: 0.107 | Regime: [0xINIT]
+[TARGETING ] EP:13 T:040 | Angle: -0.15 rad | Surp: 0.156 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 44 (Global Tick 425)
+
+--- Starting Episode 14/50 ---
+[TARGETING ] EP:14 T:000 | Angle:  0.00 rad | Surp: 0.000 | Regime: [0xINIT]
+[TARGETING ] EP:14 T:005 | Angle: -0.00 rad | Surp: 0.000 | Regime: [0xINIT]
+[TARGETING ] EP:14 T:010 | Angle: -0.00 rad | Surp: 0.004 | Regime: [0xINIT]
+[TARGETING ] EP:14 T:015 | Angle: -0.01 rad | Surp: 0.007 | Regime: [0xINIT]
+[TARGETING ] EP:14 T:020 | Angle: -0.01 rad | Surp: 0.010 | Regime: [0xINIT]
+[TARGETING ] EP:14 T:025 | Angle: -0.02 rad | Surp: 0.016 | Regime: [0xINIT]
+[TARGETING ] EP:14 T:030 | Angle: -0.02 rad | Surp: 0.024 | Regime: [0xINIT]
+[TARGETING ] EP:14 T:035 | Angle: -0.04 rad | Surp: 0.036 | Regime: [0xINIT]
+[TARGETING ] EP:14 T:040 | Angle: -0.05 rad | Surp: 0.053 | Regime: [0xINIT]
+[TARGETING ] EP:14 T:045 | Angle: -0.08 rad | Surp: 0.078 | Regime: [0xINIT]
+[TARGETING ] EP:14 T:050 | Angle: -0.11 rad | Surp: 0.114 | Regime: [0xINIT]
+[TARGETING ] EP:14 T:055 | Angle: -0.16 rad | Surp: 0.167 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 59 (Global Tick 485)
+
+--- Starting Episode 15/50 ---
+[TARGETING ] EP:15 T:000 | Angle:  0.05 rad | Surp: 0.046 | Regime: [0xINIT]
+[TARGETING ] EP:15 T:005 | Angle:  0.05 rad | Surp: 0.049 | Regime: [0xINIT]
+[TARGETING ] EP:15 T:010 | Angle:  0.06 rad | Surp: 0.060 | Regime: [0xINIT]
+[TARGETING ] EP:15 T:015 | Angle:  0.08 rad | Surp: 0.080 | Regime: [0xINIT]
+[TARGETING ] EP:15 T:020 | Angle:  0.11 rad | Surp: 0.112 | Regime: [0xINIT]
+[TARGETING ] EP:15 T:025 | Angle:  0.16 rad | Surp: 0.160 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 29 (Global Tick 515)
+
+--- Starting Episode 16/50 ---
+[TARGETING ] EP:16 T:000 | Angle: -0.04 rad | Surp: 0.037 | Regime: [0xINIT]
+[TARGETING ] EP:16 T:005 | Angle: -0.04 rad | Surp: 0.041 | Regime: [0xINIT]
+[TARGETING ] EP:16 T:010 | Angle: -0.05 rad | Surp: 0.052 | Regime: [0xINIT]
+[TARGETING ] EP:16 T:015 | Angle: -0.07 rad | Surp: 0.070 | Regime: [0xINIT]
+[TARGETING ] EP:16 T:020 | Angle: -0.10 rad | Surp: 0.099 | Regime: [0xINIT]
+[TARGETING ] EP:16 T:025 | Angle: -0.14 rad | Surp: 0.143 | Regime: [0xINIT]
+[TARGETING ] EP:16 T:030 | Angle: -0.20 rad | Surp: 0.208 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 31 (Global Tick 547)
+
+--- Starting Episode 17/50 ---
+[TARGETING ] EP:17 T:000 | Angle: -0.05 rad | Surp: 0.045 | Regime: [0xINIT]
+[TARGETING ] EP:17 T:005 | Angle: -0.05 rad | Surp: 0.052 | Regime: [0xINIT]
+[TARGETING ] EP:17 T:010 | Angle: -0.07 rad | Surp: 0.067 | Regime: [0xINIT]
+[TARGETING ] EP:17 T:015 | Angle: -0.09 rad | Surp: 0.092 | Regime: [0xINIT]
+[TARGETING ] EP:17 T:020 | Angle: -0.13 rad | Surp: 0.132 | Regime: [0xINIT]
+[TARGETING ] EP:17 T:025 | Angle: -0.19 rad | Surp: 0.191 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 27 (Global Tick 575)
+
+--- Starting Episode 18/50 ---
+[TARGETING ] EP:18 T:000 | Angle:  0.04 rad | Surp: 0.042 | Regime: [0xINIT]
+[TARGETING ] EP:18 T:005 | Angle:  0.04 rad | Surp: 0.044 | Regime: [0xINIT]
+[TARGETING ] EP:18 T:010 | Angle:  0.05 rad | Surp: 0.054 | Regime: [0xINIT]
+[TARGETING ] EP:18 T:015 | Angle:  0.07 rad | Surp: 0.072 | Regime: [0xINIT]
+[TARGETING ] EP:18 T:020 | Angle:  0.10 rad | Surp: 0.101 | Regime: [0xINIT]
+[TARGETING ] EP:18 T:025 | Angle:  0.14 rad | Surp: 0.145 | Regime: [0xINIT]
+[TARGETING ] EP:18 T:030 | Angle:  0.21 rad | Surp: 0.210 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 31 (Global Tick 607)
+
+--- Starting Episode 19/50 ---
+[TARGETING ] EP:19 T:000 | Angle: -0.02 rad | Surp: 0.017 | Regime: [0xINIT]
+[TARGETING ] EP:19 T:005 | Angle: -0.02 rad | Surp: 0.024 | Regime: [0xINIT]
+[TARGETING ] EP:19 T:010 | Angle: -0.03 rad | Surp: 0.034 | Regime: [0xINIT]
+[TARGETING ] EP:19 T:015 | Angle: -0.05 rad | Surp: 0.048 | Regime: [0xINIT]
+[TARGETING ] EP:19 T:020 | Angle: -0.07 rad | Surp: 0.070 | Regime: [0xINIT]
+[TARGETING ] EP:19 T:025 | Angle: -0.10 rad | Surp: 0.102 | Regime: [0xINIT]
+[TARGETING ] EP:19 T:030 | Angle: -0.15 rad | Surp: 0.150 | Regime: [0xINIT]
+[TARGETING ] EP:19 T:035 | Angle: -0.22 rad | Surp: 0.220 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 35 (Global Tick 643)
+
+--- Starting Episode 20/50 ---
+[TARGETING ] EP:20 T:000 | Angle: -0.05 rad | Surp: 0.048 | Regime: [0xINIT]
+[TARGETING ] EP:20 T:005 | Angle: -0.05 rad | Surp: 0.049 | Regime: [0xINIT]
+[TARGETING ] EP:20 T:010 | Angle: -0.06 rad | Surp: 0.058 | Regime: [0xINIT]
+[TARGETING ] EP:20 T:015 | Angle: -0.08 rad | Surp: 0.076 | Regime: [0xINIT]
+[TARGETING ] EP:20 T:020 | Angle: -0.10 rad | Surp: 0.105 | Regime: [0xINIT]
+[TARGETING ] EP:20 T:025 | Angle: -0.15 rad | Surp: 0.149 | Regime: [0xINIT]
+[TARGETING ] EP:20 T:030 | Angle: -0.21 rad | Surp: 0.215 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 30 (Global Tick 674)
+
+--- Starting Episode 21/50 ---
+[TARGETING ] EP:21 T:000 | Angle:  0.02 rad | Surp: 0.016 | Regime: [0xINIT]
+[TARGETING ] EP:21 T:005 | Angle:  0.02 rad | Surp: 0.021 | Regime: [0xINIT]
+[TARGETING ] EP:21 T:010 | Angle:  0.03 rad | Surp: 0.031 | Regime: [0xINIT]
+[TARGETING ] EP:21 T:015 | Angle:  0.04 rad | Surp: 0.044 | Regime: [0xINIT]
+[TARGETING ] EP:21 T:020 | Angle:  0.06 rad | Surp: 0.064 | Regime: [0xINIT]
+[TARGETING ] EP:21 T:025 | Angle:  0.09 rad | Surp: 0.092 | Regime: [0xINIT]
+[TARGETING ] EP:21 T:030 | Angle:  0.13 rad | Surp: 0.134 | Regime: [0xINIT]
+[TARGETING ] EP:21 T:035 | Angle:  0.19 rad | Surp: 0.196 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 37 (Global Tick 712)
+
+--- Starting Episode 22/50 ---
+[TARGETING ] EP:22 T:000 | Angle: -0.02 rad | Surp: 0.016 | Regime: [0xINIT]
+[TARGETING ] EP:22 T:005 | Angle: -0.01 rad | Surp: 0.012 | Regime: [0xINIT]
+[TARGETING ] EP:22 T:010 | Angle: -0.01 rad | Surp: 0.010 | Regime: [0xINIT]
+[TARGETING ] EP:22 T:015 | Angle: -0.01 rad | Surp: 0.011 | Regime: [0xINIT]
+[TARGETING ] EP:22 T:020 | Angle: -0.01 rad | Surp: 0.014 | Regime: [0xINIT]
+[TARGETING ] EP:22 T:025 | Angle: -0.02 rad | Surp: 0.019 | Regime: [0xINIT]
+[TARGETING ] EP:22 T:030 | Angle: -0.03 rad | Surp: 0.027 | Regime: [0xINIT]
+[TARGETING ] EP:22 T:035 | Angle: -0.04 rad | Surp: 0.038 | Regime: [0xINIT]
+[TARGETING ] EP:22 T:040 | Angle: -0.05 rad | Surp: 0.055 | Regime: [0xINIT]
+[TARGETING ] EP:22 T:045 | Angle: -0.08 rad | Surp: 0.080 | Regime: [0xINIT]
+[TARGETING ] EP:22 T:050 | Angle: -0.11 rad | Surp: 0.117 | Regime: [0xINIT]
+[TARGETING ] EP:22 T:055 | Angle: -0.17 rad | Surp: 0.171 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 58 (Global Tick 771)
+
+--- Starting Episode 23/50 ---
+[TARGETING ] EP:23 T:000 | Angle:  0.01 rad | Surp: 0.010 | Regime: [0xINIT]
+[TARGETING ] EP:23 T:005 | Angle:  0.01 rad | Surp: 0.014 | Regime: [0xINIT]
+[TARGETING ] EP:23 T:010 | Angle:  0.02 rad | Surp: 0.020 | Regime: [0xINIT]
+[TARGETING ] EP:23 T:015 | Angle:  0.03 rad | Surp: 0.029 | Regime: [0xINIT]
+[TARGETING ] EP:23 T:020 | Angle:  0.04 rad | Surp: 0.042 | Regime: [0xINIT]
+[TARGETING ] EP:23 T:025 | Angle:  0.06 rad | Surp: 0.062 | Regime: [0xINIT]
+[TARGETING ] EP:23 T:030 | Angle:  0.09 rad | Surp: 0.091 | Regime: [0xINIT]
+[TARGETING ] EP:23 T:035 | Angle:  0.13 rad | Surp: 0.133 | Regime: [0xINIT]
+[TARGETING ] EP:23 T:040 | Angle:  0.19 rad | Surp: 0.195 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 42 (Global Tick 814)
+
+--- Starting Episode 24/50 ---
+[TARGETING ] EP:24 T:000 | Angle: -0.03 rad | Surp: 0.025 | Regime: [0xINIT]
+[TARGETING ] EP:24 T:005 | Angle: -0.03 rad | Surp: 0.032 | Regime: [0xINIT]
+[TARGETING ] EP:24 T:010 | Angle: -0.04 rad | Surp: 0.043 | Regime: [0xINIT]
+[TARGETING ] EP:24 T:015 | Angle: -0.06 rad | Surp: 0.061 | Regime: [0xINIT]
+[TARGETING ] EP:24 T:020 | Angle: -0.09 rad | Surp: 0.088 | Regime: [0xINIT]
+[TARGETING ] EP:24 T:025 | Angle: -0.13 rad | Surp: 0.129 | Regime: [0xINIT]
+[TARGETING ] EP:24 T:030 | Angle: -0.18 rad | Surp: 0.188 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 32 (Global Tick 847)
+
+--- Starting Episode 25/50 ---
+[TARGETING ] EP:25 T:000 | Angle: -0.00 rad | Surp: 0.000 | Regime: [0xINIT]
+[TARGETING ] EP:25 T:005 | Angle:  0.00 rad | Surp: 0.000 | Regime: [0xINIT]
+[TARGETING ] EP:25 T:010 | Angle:  0.00 rad | Surp: 0.004 | Regime: [0xINIT]
+[TARGETING ] EP:25 T:015 | Angle:  0.01 rad | Surp: 0.008 | Regime: [0xINIT]
+[TARGETING ] EP:25 T:020 | Angle:  0.01 rad | Surp: 0.013 | Regime: [0xINIT]
+[TARGETING ] EP:25 T:025 | Angle:  0.02 rad | Surp: 0.021 | Regime: [0xINIT]
+[TARGETING ] EP:25 T:030 | Angle:  0.03 rad | Surp: 0.032 | Regime: [0xINIT]
+[TARGETING ] EP:25 T:035 | Angle:  0.05 rad | Surp: 0.048 | Regime: [0xINIT]
+[TARGETING ] EP:25 T:040 | Angle:  0.07 rad | Surp: 0.071 | Regime: [0xINIT]
+[TARGETING ] EP:25 T:045 | Angle:  0.10 rad | Surp: 0.104 | Regime: [0xINIT]
+[TARGETING ] EP:25 T:050 | Angle:  0.15 rad | Surp: 0.152 | Regime: [0xINIT]
+[TARGETING ] EP:25 T:055 | Angle:  0.22 rad | Surp: 0.223 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 55 (Global Tick 903)
+
+--- Starting Episode 26/50 ---
+[TARGETING ] EP:26 T:000 | Angle: -0.00 rad | Surp: 0.000 | Regime: [0xINIT]
+[TARGETING ] EP:26 T:005 | Angle:  0.00 rad | Surp: 0.000 | Regime: [0xINIT]
+[TARGETING ] EP:26 T:010 | Angle:  0.00 rad | Surp: 0.004 | Regime: [0xINIT]
+[TARGETING ] EP:26 T:015 | Angle:  0.01 rad | Surp: 0.009 | Regime: [0xINIT]
+[TARGETING ] EP:26 T:020 | Angle:  0.02 rad | Surp: 0.015 | Regime: [0xINIT]
+[TARGETING ] EP:26 T:025 | Angle:  0.02 rad | Surp: 0.024 | Regime: [0xINIT]
+[TARGETING ] EP:26 T:030 | Angle:  0.04 rad | Surp: 0.037 | Regime: [0xINIT]
+[TARGETING ] EP:26 T:035 | Angle:  0.05 rad | Surp: 0.054 | Regime: [0xINIT]
+[TARGETING ] EP:26 T:040 | Angle:  0.08 rad | Surp: 0.079 | Regime: [0xINIT]
+[TARGETING ] EP:26 T:045 | Angle:  0.11 rad | Surp: 0.117 | Regime: [0xINIT]
+[TARGETING ] EP:26 T:050 | Angle:  0.17 rad | Surp: 0.171 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 53 (Global Tick 957)
+
+--- Starting Episode 27/50 ---
+[TARGETING ] EP:27 T:000 | Angle:  0.03 rad | Surp: 0.028 | Regime: [0xINIT]
+[TARGETING ] EP:27 T:005 | Angle:  0.03 rad | Surp: 0.026 | Regime: [0xINIT]
+[TARGETING ] EP:27 T:010 | Angle:  0.03 rad | Surp: 0.027 | Regime: [0xINIT]
+[TARGETING ] EP:27 T:015 | Angle:  0.03 rad | Surp: 0.033 | Regime: [0xINIT]
+[TARGETING ] EP:27 T:020 | Angle:  0.04 rad | Surp: 0.044 | Regime: [0xINIT]
+[TARGETING ] EP:27 T:025 | Angle:  0.06 rad | Surp: 0.062 | Regime: [0xINIT]
+[TARGETING ] EP:27 T:030 | Angle:  0.09 rad | Surp: 0.088 | Regime: [0xINIT]
+[TARGETING ] EP:27 T:035 | Angle:  0.13 rad | Surp: 0.128 | Regime: [0xINIT]
+[TARGETING ] EP:27 T:040 | Angle:  0.18 rad | Surp: 0.187 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 42 (Global Tick 1000)
+
+--- Starting Episode 28/50 ---
+[TARGETING ] EP:28 T:000 | Angle: -0.02 rad | Surp: 0.020 | Regime: [0xINIT]
+[TARGETING ] EP:28 T:005 | Angle: -0.02 rad | Surp: 0.020 | Regime: [0xINIT]
+[TARGETING ] EP:28 T:010 | Angle: -0.02 rad | Surp: 0.022 | Regime: [0xINIT]
+[TARGETING ] EP:28 T:015 | Angle: -0.03 rad | Surp: 0.029 | Regime: [0xINIT]
+[TARGETING ] EP:28 T:020 | Angle: -0.04 rad | Surp: 0.040 | Regime: [0xINIT]
+[TARGETING ] EP:28 T:025 | Angle: -0.06 rad | Surp: 0.058 | Regime: [0xINIT]
+[TARGETING ] EP:28 T:030 | Angle: -0.08 rad | Surp: 0.085 | Regime: [0xINIT]
+[TARGETING ] EP:28 T:035 | Angle: -0.12 rad | Surp: 0.125 | Regime: [0xINIT]
+[TARGETING ] EP:28 T:040 | Angle: -0.18 rad | Surp: 0.184 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 42 (Global Tick 1043)
+
+--- Starting Episode 29/50 ---
+[TARGETING ] EP:29 T:000 | Angle:  0.03 rad | Surp: 0.033 | Regime: [0xINIT]
+[TARGETING ] EP:29 T:005 | Angle:  0.04 rad | Surp: 0.035 | Regime: [0xINIT]
+[TARGETING ] EP:29 T:010 | Angle:  0.04 rad | Surp: 0.043 | Regime: [0xINIT]
+[TARGETING ] EP:29 T:015 | Angle:  0.06 rad | Surp: 0.058 | Regime: [0xINIT]
+[TARGETING ] EP:29 T:020 | Angle:  0.08 rad | Surp: 0.080 | Regime: [0xINIT]
+[TARGETING ] EP:29 T:025 | Angle:  0.11 rad | Surp: 0.115 | Regime: [0xINIT]
+[TARGETING ] EP:29 T:030 | Angle:  0.16 rad | Surp: 0.167 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 34 (Global Tick 1078)
+
+--- Starting Episode 30/50 ---
+[TARGETING ] EP:30 T:000 | Angle: -0.05 rad | Surp: 0.046 | Regime: [0xINIT]
+[TARGETING ] EP:30 T:005 | Angle: -0.05 rad | Surp: 0.054 | Regime: [0xINIT]
+[TARGETING ] EP:30 T:010 | Angle: -0.07 rad | Surp: 0.071 | Regime: [0xINIT]
+[TARGETING ] EP:30 T:015 | Angle: -0.10 rad | Surp: 0.099 | Regime: [0xINIT]
+[TARGETING ] EP:30 T:020 | Angle: -0.14 rad | Surp: 0.143 | Regime: [0xINIT]
+[TARGETING ] EP:30 T:025 | Angle: -0.20 rad | Surp: 0.207 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 26 (Global Tick 1105)
+
+--- Starting Episode 31/50 ---
+[TARGETING ] EP:31 T:000 | Angle: -0.02 rad | Surp: 0.024 | Regime: [0xINIT]
+[TARGETING ] EP:31 T:005 | Angle: -0.02 rad | Surp: 0.022 | Regime: [0xINIT]
+[TARGETING ] EP:31 T:010 | Angle: -0.03 rad | Surp: 0.025 | Regime: [0xINIT]
+[TARGETING ] EP:31 T:015 | Angle: -0.03 rad | Surp: 0.031 | Regime: [0xINIT]
+[TARGETING ] EP:31 T:020 | Angle: -0.04 rad | Surp: 0.042 | Regime: [0xINIT]
+[TARGETING ] EP:31 T:025 | Angle: -0.06 rad | Surp: 0.060 | Regime: [0xINIT]
+[TARGETING ] EP:31 T:030 | Angle: -0.08 rad | Surp: 0.086 | Regime: [0xINIT]
+[TARGETING ] EP:31 T:035 | Angle: -0.12 rad | Surp: 0.124 | Regime: [0xINIT]
+[TARGETING ] EP:31 T:040 | Angle: -0.18 rad | Surp: 0.181 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 43 (Global Tick 1149)
+
+--- Starting Episode 32/50 ---
+[TARGETING ] EP:32 T:000 | Angle:  0.01 rad | Surp: 0.014 | Regime: [0xINIT]
+[TARGETING ] EP:32 T:005 | Angle:  0.01 rad | Surp: 0.012 | Regime: [0xINIT]
+[TARGETING ] EP:32 T:010 | Angle:  0.01 rad | Surp: 0.011 | Regime: [0xINIT]
+[TARGETING ] EP:32 T:015 | Angle:  0.01 rad | Surp: 0.014 | Regime: [0xINIT]
+[TARGETING ] EP:32 T:020 | Angle:  0.02 rad | Surp: 0.018 | Regime: [0xINIT]
+[TARGETING ] EP:32 T:025 | Angle:  0.02 rad | Surp: 0.025 | Regime: [0xINIT]
+[TARGETING ] EP:32 T:030 | Angle:  0.04 rad | Surp: 0.036 | Regime: [0xINIT]
+[TARGETING ] EP:32 T:035 | Angle:  0.05 rad | Surp: 0.053 | Regime: [0xINIT]
+[TARGETING ] EP:32 T:040 | Angle:  0.08 rad | Surp: 0.079 | Regime: [0xINIT]
+[TARGETING ] EP:32 T:045 | Angle:  0.11 rad | Surp: 0.115 | Regime: [0xINIT]
+[TARGETING ] EP:32 T:050 | Angle:  0.17 rad | Surp: 0.169 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 54 (Global Tick 1204)
+
+--- Starting Episode 33/50 ---
+[TARGETING ] EP:33 T:000 | Angle:  0.00 rad | Surp: 0.000 | Regime: [0xINIT]
+[TARGETING ] EP:33 T:005 | Angle:  0.00 rad | Surp: 0.004 | Regime: [0xINIT]
+[TARGETING ] EP:33 T:010 | Angle:  0.01 rad | Surp: 0.007 | Regime: [0xINIT]
+[TARGETING ] EP:33 T:015 | Angle:  0.01 rad | Surp: 0.009 | Regime: [0xINIT]
+[TARGETING ] EP:33 T:020 | Angle:  0.01 rad | Surp: 0.013 | Regime: [0xINIT]
+[TARGETING ] EP:33 T:025 | Angle:  0.02 rad | Surp: 0.019 | Regime: [0xINIT]
+[TARGETING ] EP:33 T:030 | Angle:  0.03 rad | Surp: 0.028 | Regime: [0xINIT]
+[TARGETING ] EP:33 T:035 | Angle:  0.04 rad | Surp: 0.042 | Regime: [0xINIT]
+[TARGETING ] EP:33 T:040 | Angle:  0.06 rad | Surp: 0.063 | Regime: [0xINIT]
+[TARGETING ] EP:33 T:045 | Angle:  0.09 rad | Surp: 0.094 | Regime: [0xINIT]
+[TARGETING ] EP:33 T:050 | Angle:  0.13 rad | Surp: 0.138 | Regime: [0xINIT]
+[TARGETING ] EP:33 T:055 | Angle:  0.20 rad | Surp: 0.201 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 56 (Global Tick 1261)
+
+--- Starting Episode 34/50 ---
+[TARGETING ] EP:34 T:000 | Angle: -0.03 rad | Surp: 0.033 | Regime: [0xINIT]
+[TARGETING ] EP:34 T:005 | Angle: -0.04 rad | Surp: 0.035 | Regime: [0xINIT]
+[TARGETING ] EP:34 T:010 | Angle: -0.04 rad | Surp: 0.043 | Regime: [0xINIT]
+[TARGETING ] EP:34 T:015 | Angle: -0.06 rad | Surp: 0.057 | Regime: [0xINIT]
+[TARGETING ] EP:34 T:020 | Angle: -0.08 rad | Surp: 0.080 | Regime: [0xINIT]
+[TARGETING ] EP:34 T:025 | Angle: -0.11 rad | Surp: 0.114 | Regime: [0xINIT]
+[TARGETING ] EP:34 T:030 | Angle: -0.16 rad | Surp: 0.165 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 34 (Global Tick 1296)
+
+--- Starting Episode 35/50 ---
+[TARGETING ] EP:35 T:000 | Angle:  0.01 rad | Surp: 0.010 | Regime: [0xINIT]
+[TARGETING ] EP:35 T:005 | Angle:  0.01 rad | Surp: 0.012 | Regime: [0xINIT]
+[TARGETING ] EP:35 T:010 | Angle:  0.02 rad | Surp: 0.017 | Regime: [0xINIT]
+[TARGETING ] EP:35 T:015 | Angle:  0.03 rad | Surp: 0.026 | Regime: [0xINIT]
+[TARGETING ] EP:35 T:020 | Angle:  0.04 rad | Surp: 0.038 | Regime: [0xINIT]
+[TARGETING ] EP:35 T:025 | Angle:  0.06 rad | Surp: 0.057 | Regime: [0xINIT]
+[TARGETING ] EP:35 T:030 | Angle:  0.08 rad | Surp: 0.084 | Regime: [0xINIT]
+[TARGETING ] EP:35 T:035 | Angle:  0.12 rad | Surp: 0.124 | Regime: [0xINIT]
+[TARGETING ] EP:35 T:040 | Angle:  0.18 rad | Surp: 0.181 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 43 (Global Tick 1340)
+
+--- Starting Episode 36/50 ---
+[TARGETING ] EP:36 T:000 | Angle: -0.05 rad | Surp: 0.045 | Regime: [0xINIT]
+[TARGETING ] EP:36 T:005 | Angle: -0.05 rad | Surp: 0.053 | Regime: [0xINIT]
+[TARGETING ] EP:36 T:010 | Angle: -0.07 rad | Surp: 0.069 | Regime: [0xINIT]
+[TARGETING ] EP:36 T:015 | Angle: -0.09 rad | Surp: 0.096 | Regime: [0xINIT]
+[TARGETING ] EP:36 T:020 | Angle: -0.13 rad | Surp: 0.136 | Regime: [0xINIT]
+[TARGETING ] EP:36 T:025 | Angle: -0.19 rad | Surp: 0.198 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 26 (Global Tick 1367)
+
+--- Starting Episode 37/50 ---
+[TARGETING ] EP:37 T:000 | Angle: -0.02 rad | Surp: 0.017 | Regime: [0xINIT]
+[TARGETING ] EP:37 T:005 | Angle: -0.02 rad | Surp: 0.015 | Regime: [0xINIT]
+[TARGETING ] EP:37 T:010 | Angle: -0.02 rad | Surp: 0.017 | Regime: [0xINIT]
+[TARGETING ] EP:37 T:015 | Angle: -0.02 rad | Surp: 0.021 | Regime: [0xINIT]
+[TARGETING ] EP:37 T:020 | Angle: -0.03 rad | Surp: 0.028 | Regime: [0xINIT]
+[TARGETING ] EP:37 T:025 | Angle: -0.04 rad | Surp: 0.040 | Regime: [0xINIT]
+[TARGETING ] EP:37 T:030 | Angle: -0.06 rad | Surp: 0.058 | Regime: [0xINIT]
+[TARGETING ] EP:37 T:035 | Angle: -0.08 rad | Surp: 0.084 | Regime: [0xINIT]
+[TARGETING ] EP:37 T:040 | Angle: -0.12 rad | Surp: 0.123 | Regime: [0xINIT]
+[TARGETING ] EP:37 T:045 | Angle: -0.18 rad | Surp: 0.179 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 48 (Global Tick 1416)
+
+--- Starting Episode 38/50 ---
+[TARGETING ] EP:38 T:000 | Angle:  0.02 rad | Surp: 0.022 | Regime: [0xINIT]
+[TARGETING ] EP:38 T:005 | Angle:  0.02 rad | Surp: 0.022 | Regime: [0xINIT]
+[TARGETING ] EP:38 T:010 | Angle:  0.03 rad | Surp: 0.026 | Regime: [0xINIT]
+[TARGETING ] EP:38 T:015 | Angle:  0.03 rad | Surp: 0.034 | Regime: [0xINIT]
+[TARGETING ] EP:38 T:020 | Angle:  0.05 rad | Surp: 0.047 | Regime: [0xINIT]
+[TARGETING ] EP:38 T:025 | Angle:  0.07 rad | Surp: 0.068 | Regime: [0xINIT]
+[TARGETING ] EP:38 T:030 | Angle:  0.10 rad | Surp: 0.098 | Regime: [0xINIT]
+[TARGETING ] EP:38 T:035 | Angle:  0.14 rad | Surp: 0.143 | Regime: [0xINIT]
+[TARGETING ] EP:38 T:040 | Angle:  0.20 rad | Surp: 0.208 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 41 (Global Tick 1458)
+
+--- Starting Episode 39/50 ---
+[TARGETING ] EP:39 T:000 | Angle:  0.01 rad | Surp: 0.009 | Regime: [0xINIT]
+[TARGETING ] EP:39 T:005 | Angle:  0.01 rad | Surp: 0.010 | Regime: [0xINIT]
+[TARGETING ] EP:39 T:010 | Angle:  0.01 rad | Surp: 0.014 | Regime: [0xINIT]
+[TARGETING ] EP:39 T:015 | Angle:  0.02 rad | Surp: 0.020 | Regime: [0xINIT]
+[TARGETING ] EP:39 T:020 | Angle:  0.03 rad | Surp: 0.029 | Regime: [0xINIT]
+[TARGETING ] EP:39 T:025 | Angle:  0.04 rad | Surp: 0.042 | Regime: [0xINIT]
+[TARGETING ] EP:39 T:030 | Angle:  0.06 rad | Surp: 0.062 | Regime: [0xINIT]
+[TARGETING ] EP:39 T:035 | Angle:  0.09 rad | Surp: 0.090 | Regime: [0xINIT]
+[TARGETING ] EP:39 T:040 | Angle:  0.13 rad | Surp: 0.131 | Regime: [0xINIT]
+[TARGETING ] EP:39 T:045 | Angle:  0.19 rad | Surp: 0.192 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 47 (Global Tick 1506)
+
+--- Starting Episode 40/50 ---
+[TARGETING ] EP:40 T:000 | Angle: -0.03 rad | Surp: 0.029 | Regime: [0xINIT]
+[TARGETING ] EP:40 T:005 | Angle: -0.03 rad | Surp: 0.030 | Regime: [0xINIT]
+[TARGETING ] EP:40 T:010 | Angle: -0.04 rad | Surp: 0.036 | Regime: [0xINIT]
+[TARGETING ] EP:40 T:015 | Angle: -0.05 rad | Surp: 0.048 | Regime: [0xINIT]
+[TARGETING ] EP:40 T:020 | Angle: -0.07 rad | Surp: 0.068 | Regime: [0xINIT]
+[TARGETING ] EP:40 T:025 | Angle: -0.10 rad | Surp: 0.098 | Regime: [0xINIT]
+[TARGETING ] EP:40 T:030 | Angle: -0.14 rad | Surp: 0.142 | Regime: [0xINIT]
+[TARGETING ] EP:40 T:035 | Angle: -0.20 rad | Surp: 0.206 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 36 (Global Tick 1543)
+
+--- Starting Episode 41/50 ---
+[TARGETING ] EP:41 T:000 | Angle: -0.03 rad | Surp: 0.033 | Regime: [0xINIT]
+[TARGETING ] EP:41 T:005 | Angle: -0.03 rad | Surp: 0.034 | Regime: [0xINIT]
+[TARGETING ] EP:41 T:010 | Angle: -0.04 rad | Surp: 0.042 | Regime: [0xINIT]
+[TARGETING ] EP:41 T:015 | Angle: -0.06 rad | Surp: 0.057 | Regime: [0xINIT]
+[TARGETING ] EP:41 T:020 | Angle: -0.08 rad | Surp: 0.080 | Regime: [0xINIT]
+[TARGETING ] EP:41 T:025 | Angle: -0.11 rad | Surp: 0.114 | Regime: [0xINIT]
+[TARGETING ] EP:41 T:030 | Angle: -0.16 rad | Surp: 0.166 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 34 (Global Tick 1578)
+
+--- Starting Episode 42/50 ---
+[TARGETING ] EP:42 T:000 | Angle:  0.02 rad | Surp: 0.021 | Regime: [0xINIT]
+[TARGETING ] EP:42 T:005 | Angle:  0.03 rad | Surp: 0.028 | Regime: [0xINIT]
+[TARGETING ] EP:42 T:010 | Angle:  0.04 rad | Surp: 0.039 | Regime: [0xINIT]
+[TARGETING ] EP:42 T:015 | Angle:  0.06 rad | Surp: 0.057 | Regime: [0xINIT]
+[TARGETING ] EP:42 T:020 | Angle:  0.08 rad | Surp: 0.083 | Regime: [0xINIT]
+[TARGETING ] EP:42 T:025 | Angle:  0.12 rad | Surp: 0.121 | Regime: [0xINIT]
+[TARGETING ] EP:42 T:030 | Angle:  0.17 rad | Surp: 0.176 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 33 (Global Tick 1612)
+
+--- Starting Episode 43/50 ---
+[TARGETING ] EP:43 T:000 | Angle: -0.04 rad | Surp: 0.038 | Regime: [0xINIT]
+[TARGETING ] EP:43 T:005 | Angle: -0.04 rad | Surp: 0.037 | Regime: [0xINIT]
+[TARGETING ] EP:43 T:010 | Angle: -0.04 rad | Surp: 0.043 | Regime: [0xINIT]
+[TARGETING ] EP:43 T:015 | Angle: -0.06 rad | Surp: 0.056 | Regime: [0xINIT]
+[TARGETING ] EP:43 T:020 | Angle: -0.08 rad | Surp: 0.078 | Regime: [0xINIT]
+[TARGETING ] EP:43 T:025 | Angle: -0.11 rad | Surp: 0.111 | Regime: [0xINIT]
+[TARGETING ] EP:43 T:030 | Angle: -0.16 rad | Surp: 0.161 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 34 (Global Tick 1647)
+
+--- Starting Episode 44/50 ---
+[TARGETING ] EP:44 T:000 | Angle:  0.02 rad | Surp: 0.019 | Regime: [0xINIT]
+[TARGETING ] EP:44 T:005 | Angle:  0.02 rad | Surp: 0.021 | Regime: [0xINIT]
+[TARGETING ] EP:44 T:010 | Angle:  0.03 rad | Surp: 0.027 | Regime: [0xINIT]
+[TARGETING ] EP:44 T:015 | Angle:  0.04 rad | Surp: 0.037 | Regime: [0xINIT]
+[TARGETING ] EP:44 T:020 | Angle:  0.05 rad | Surp: 0.052 | Regime: [0xINIT]
+[TARGETING ] EP:44 T:025 | Angle:  0.07 rad | Surp: 0.074 | Regime: [0xINIT]
+[TARGETING ] EP:44 T:030 | Angle:  0.10 rad | Surp: 0.106 | Regime: [0xINIT]
+[TARGETING ] EP:44 T:035 | Angle:  0.15 rad | Surp: 0.154 | Regime: [0xINIT]
+[TARGETING ] EP:44 T:040 | Angle:  0.22 rad | Surp: 0.225 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 40 (Global Tick 1688)
+
+--- Starting Episode 45/50 ---
+[TARGETING ] EP:45 T:000 | Angle: -0.02 rad | Surp: 0.019 | Regime: [0xINIT]
+[TARGETING ] EP:45 T:005 | Angle: -0.02 rad | Surp: 0.022 | Regime: [0xINIT]
+[TARGETING ] EP:45 T:010 | Angle: -0.03 rad | Surp: 0.029 | Regime: [0xINIT]
+[TARGETING ] EP:45 T:015 | Angle: -0.04 rad | Surp: 0.040 | Regime: [0xINIT]
+[TARGETING ] EP:45 T:020 | Angle: -0.06 rad | Surp: 0.059 | Regime: [0xINIT]
+[TARGETING ] EP:45 T:025 | Angle: -0.08 rad | Surp: 0.086 | Regime: [0xINIT]
+[TARGETING ] EP:45 T:030 | Angle: -0.12 rad | Surp: 0.126 | Regime: [0xINIT]
+[TARGETING ] EP:45 T:035 | Angle: -0.18 rad | Surp: 0.185 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 37 (Global Tick 1726)
+
+--- Starting Episode 46/50 ---
+[TARGETING ] EP:46 T:000 | Angle:  0.02 rad | Surp: 0.018 | Regime: [0xINIT]
+[TARGETING ] EP:46 T:005 | Angle:  0.02 rad | Surp: 0.016 | Regime: [0xINIT]
+[TARGETING ] EP:46 T:010 | Angle:  0.02 rad | Surp: 0.017 | Regime: [0xINIT]
+[TARGETING ] EP:46 T:015 | Angle:  0.02 rad | Surp: 0.020 | Regime: [0xINIT]
+[TARGETING ] EP:46 T:020 | Angle:  0.03 rad | Surp: 0.027 | Regime: [0xINIT]
+[TARGETING ] EP:46 T:025 | Angle:  0.04 rad | Surp: 0.038 | Regime: [0xINIT]
+[TARGETING ] EP:46 T:030 | Angle:  0.05 rad | Surp: 0.056 | Regime: [0xINIT]
+[TARGETING ] EP:46 T:035 | Angle:  0.08 rad | Surp: 0.082 | Regime: [0xINIT]
+[TARGETING ] EP:46 T:040 | Angle:  0.12 rad | Surp: 0.119 | Regime: [0xINIT]
+[TARGETING ] EP:46 T:045 | Angle:  0.17 rad | Surp: 0.173 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 48 (Global Tick 1775)
+
+--- Starting Episode 47/50 ---
+[TARGETING ] EP:47 T:000 | Angle:  0.04 rad | Surp: 0.039 | Regime: [0xINIT]
+[TARGETING ] EP:47 T:005 | Angle:  0.04 rad | Surp: 0.040 | Regime: [0xINIT]
+[TARGETING ] EP:47 T:010 | Angle:  0.05 rad | Surp: 0.049 | Regime: [0xINIT]
+[TARGETING ] EP:47 T:015 | Angle:  0.06 rad | Surp: 0.065 | Regime: [0xINIT]
+[TARGETING ] EP:47 T:020 | Angle:  0.09 rad | Surp: 0.092 | Regime: [0xINIT]
+[TARGETING ] EP:47 T:025 | Angle:  0.13 rad | Surp: 0.133 | Regime: [0xINIT]
+[TARGETING ] EP:47 T:030 | Angle:  0.19 rad | Surp: 0.195 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 32 (Global Tick 1808)
+
+--- Starting Episode 48/50 ---
+[TARGETING ] EP:48 T:000 | Angle: -0.03 rad | Surp: 0.034 | Regime: [0xINIT]
+[TARGETING ] EP:48 T:005 | Angle: -0.04 rad | Surp: 0.040 | Regime: [0xINIT]
+[TARGETING ] EP:48 T:010 | Angle: -0.05 rad | Surp: 0.052 | Regime: [0xINIT]
+[TARGETING ] EP:48 T:015 | Angle: -0.07 rad | Surp: 0.073 | Regime: [0xINIT]
+[TARGETING ] EP:48 T:020 | Angle: -0.10 rad | Surp: 0.104 | Regime: [0xINIT]
+[TARGETING ] EP:48 T:025 | Angle: -0.15 rad | Surp: 0.151 | Regime: [0xINIT]
+[TARGETING ] EP:48 T:030 | Angle: -0.21 rad | Surp: 0.220 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 30 (Global Tick 1839)
+
+--- Starting Episode 49/50 ---
+[TARGETING ] EP:49 T:000 | Angle:  0.04 rad | Surp: 0.040 | Regime: [0xINIT]
+[TARGETING ] EP:49 T:005 | Angle:  0.05 rad | Surp: 0.045 | Regime: [0xINIT]
+[TARGETING ] EP:49 T:010 | Angle:  0.06 rad | Surp: 0.059 | Regime: [0xINIT]
+[TARGETING ] EP:49 T:015 | Angle:  0.08 rad | Surp: 0.081 | Regime: [0xINIT]
+[TARGETING ] EP:49 T:020 | Angle:  0.11 rad | Surp: 0.116 | Regime: [0xINIT]
+[TARGETING ] EP:49 T:025 | Angle:  0.16 rad | Surp: 0.168 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 29 (Global Tick 1869)
+
+--- Starting Episode 50/50 ---
+[TARGETING ] EP:50 T:000 | Angle: -0.03 rad | Surp: 0.027 | Regime: [0xINIT]
+[TARGETING ] EP:50 T:005 | Angle: -0.03 rad | Surp: 0.030 | Regime: [0xINIT]
+[TARGETING ] EP:50 T:010 | Angle: -0.04 rad | Surp: 0.038 | Regime: [0xINIT]
+[TARGETING ] EP:50 T:015 | Angle: -0.05 rad | Surp: 0.051 | Regime: [0xINIT]
+[TARGETING ] EP:50 T:020 | Angle: -0.07 rad | Surp: 0.072 | Regime: [0xINIT]
+[TARGETING ] EP:50 T:025 | Angle: -0.10 rad | Surp: 0.104 | Regime: [0xINIT]
+[TARGETING ] EP:50 T:030 | Angle: -0.15 rad | Surp: 0.152 | Regime: [0xINIT]
+[TARGETING ] EP:50 T:035 | Angle: -0.22 rad | Surp: 0.222 | Regime: [0xINIT]
+💥 CartPole Terminated at Tick 35 (Global Tick 1905)
+Done. Rendering...
+Saved plot to cartpole_boreal_results.png

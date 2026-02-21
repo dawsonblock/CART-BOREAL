@@ -3,6 +3,6 @@ __pycache__/
 .mypy_cache/
 node_modules/
 dist/
-cartpole_run.log
-*.png
+# cartpole_run.log
+# *.png
 .env
