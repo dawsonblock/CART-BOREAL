@@ -23,7 +23,7 @@ from boreal_apex_sovereign_v2 import (
 
 # Monkey-patch config for CartPole physics
 config.s_dim = 12
-config.o_dim = 24
+config.o_dim = 5
 config.a_dim = 1  # CartPole only has 1 actuator (track track)
 config.base_lr_shift = 7
 config.recov_lr_shift = 4
@@ -165,12 +165,12 @@ def run_cartpole_boreal():
             if recovery_mode:
                 active_lr = config.recov_lr_shift
                 exp_shift = 2
-                a_q = ALU_Q16.to_q([0.0])
                 recovery_timer -= 1
             else:
                 active_lr = config.base_lr_shift
                 exp_shift = 1 if ensemble.regime_stability < 30 else -2
-                a_q = q16_cem_plan(ensemble, states_q, target_obs_q, exp_shift)
+
+            a_q = q16_cem_plan(ensemble, states_q, target_obs_q, exp_shift)
 
             o_q_next, reward, terminated, truncated, _ = env.step(a_q)
 
